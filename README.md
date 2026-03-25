@@ -2,6 +2,10 @@
 
 Sistema web de punto de venta diseñado para tiendas de electrónica. Permite gestionar ventas, inventario, productos, usuarios y generar reportes, todo desde una interfaz táctil moderna.
 
+En el login ingresa con rol administrador:
+user: itslome
+password: ray0205
+
 <img width="1362" height="695" alt="image" src="https://github.com/user-attachments/assets/836194bd-d52e-4022-bc29-3b383bfdf9f5" />
 
 
